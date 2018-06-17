@@ -9,7 +9,7 @@ var fg = new Image();
 var pipeNorth = new Image();
 var pipeSouth = new Image();
 
-nick.src = "images/nick.png";
+nick.src = "images/poop.png";
 bg.src = "images/bg.png";
 fg.src = "images/fg.png";
 pipeNorth.src = "images/pipeNorth.png";
